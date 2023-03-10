@@ -4,9 +4,9 @@ import {FaSearch} from 'react-icons/fa'
 
 function Search() {
     return (
-        <form>
+        <FormStyle>
             <input type="text" />
-        </form>
+        </FormStyle>
     )
 }
 
